@@ -1,0 +1,6 @@
+echo "# https-discordapp.com-api-webhooks-717109074340085820-11qITSU3-UuWhPN7MfAGy1fex6KFo8hh6sDz0jGecgHRk" >> README.md 
+git init 
+git agregar README.md.hola 
+git commit -m " 
+add origin" https://gitub.com /jordansg/https-discordapp.com-api-webhooks-717109074340085820-11qITSU3-UuWhPN7MfAGy1fex6KFo8hh6sDz0jGecgHRk.git
+ git push -u maestro de origen
